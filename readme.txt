@@ -4,4 +4,5 @@
 444444444444
 555555555555
 666666666666
-Creatint a new branch is quick & simple;
+Creating a new branch is quick AND simple;
+
