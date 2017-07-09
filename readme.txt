@@ -7,3 +7,5 @@
 Creating a new branch is quick AND simple;
 Creating a new test brach dev for add merger;
 
+test stach!
+
